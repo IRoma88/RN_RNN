@@ -1,0 +1,4 @@
+tensorflow
+numpy
+matplotlib
+# Si estás usando Jupyter Notebook, puedes agregar también jupyter
